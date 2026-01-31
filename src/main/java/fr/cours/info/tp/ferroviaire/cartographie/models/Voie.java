@@ -16,6 +16,5 @@ public class Voie {
     public boolean isSensUnique() {
         return sensUnique;
     }
-
-    // ... autres getters/setters
+    
 }
